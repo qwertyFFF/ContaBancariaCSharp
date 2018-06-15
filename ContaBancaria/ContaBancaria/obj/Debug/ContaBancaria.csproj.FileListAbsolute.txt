@@ -1,0 +1,6 @@
+c:\users\alessandro.freitas\documents\visual studio 2015\Projects\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+c:\users\alessandro.freitas\documents\visual studio 2015\Projects\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+c:\users\alessandro.freitas\documents\visual studio 2015\Projects\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+c:\users\alessandro.freitas\documents\visual studio 2015\Projects\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+c:\users\alessandro.freitas\documents\visual studio 2015\Projects\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
+c:\users\alessandro.freitas\documents\visual studio 2015\Projects\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csprojResolveAssemblyReference.cache
